@@ -1,0 +1,5 @@
+# Archivos a ignorar en el respaldo
+Nuevo documento de texto.txt
+
+# Directorios a ignorar en el respaldo 
+/tmp
